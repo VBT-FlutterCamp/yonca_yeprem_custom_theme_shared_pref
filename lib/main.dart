@@ -1,4 +1,4 @@
-import 'package:custom_theme_example/core/init/theme/app_theme.dart';
+import 'core/init/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 
 import 'feature/view/homepage_view.dart';

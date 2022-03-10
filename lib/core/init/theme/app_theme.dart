@@ -1,9 +1,9 @@
-import 'package:custom_theme_example/core/init/theme/color/dark_color_theme.dart';
-import 'package:custom_theme_example/core/init/theme/color/i_color_theme.dart';
-import 'package:custom_theme_example/core/init/theme/color/light_color_theme.dart';
-import 'package:custom_theme_example/core/init/theme/text/dark_text_theme.dart';
-import 'package:custom_theme_example/core/init/theme/text/i_text_theme.dart';
-import 'package:custom_theme_example/core/init/theme/text/light_text_theme.dart';
+import 'color/dark_color_theme.dart';
+import 'color/i_color_theme.dart';
+import 'color/light_color_theme.dart';
+import 'text/dark_text_theme.dart';
+import 'text/i_text_theme.dart';
+import 'text/light_text_theme.dart';
 import 'package:flutter/material.dart';
 
 abstract class ITheme {
